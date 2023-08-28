@@ -2,7 +2,7 @@
 
 This simple Python script generates random usernames using a list of English words. You can customize the maximum length of usernames, the number of usernames to generate, and whether to include same initials.
 
-I made this because I wasn't satisfied with using keepassxc's feature of passphrase generation to make up some usernames I could use, mainly because they don't have what I needed : same first initials, also the wordlist was fairly small and I couldn't control the word lengths, which are the features I took care of in the 30 minutes of free time I had for this small tool.
+I made this because I wasn't satisfied with using keepassxc's feature of passphrase generation to make up some usernames I could use, mainly because they don't have what I needed : same first initials, also the wordlist was fairly small and I couldn't control the word lengths, which are the features I took care in this small tool.
 
 ## Features
 
